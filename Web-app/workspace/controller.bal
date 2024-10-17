@@ -1,12 +1,8 @@
 import ballerina/io;
-import ballerina/http;
+//import ballerina/http;
+import "Web-app.db" [as db];
 
 public function main() returns error?{
-    //io:println("Hello, World!");
-    //http:ClientConfig clientConfig = {};
-    http:Client cl = check new ("localhost:8080");
-    var response = cl->get("/greeting", targetType=string);
-    
-    //io:println("Response: " + response);
+    string response = "hi";
     io:println(response);
 }
