@@ -1,7 +1,0 @@
-[package]
-org = "your_org_name"
-name = "Webapp"
-version = "0.1.0"
-
-[build-options]
-observabilityIncluded = true
