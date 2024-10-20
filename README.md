@@ -9,7 +9,7 @@ In many office environments, many letters circulate daily, making it difficult t
 
 Users can track their letters through the system and receive notifications when they are processed and ready for collection, ensuring better efficiency and accountability.
 
-<br><br>
+<br>
 
 ## Project insight
 - Back end  - Primarily used Ballerina
@@ -17,7 +17,7 @@ Users can track their letters through the system and receive notifications when 
 - API       - Ballerina was used to create custom APIs
 - Database  - MongoDB
 
-<br><br><br>
+<br><br>
 
 **Special thanks go to the IEEE Student Branch - UOM and WSO2 for hosting the "INNOVATE WITH BALLERINA" ballerina competition and providing knowledge throughout the project**
 
