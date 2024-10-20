@@ -2,6 +2,7 @@ import ballerina/io;
 import ballerinax/mongodb;
 
 public function main() returns error? {
+    // # URI Structure: mongodb+srv:// <UserName> : <Password> @cluster0.8gwtw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
     string uri = "mongodb+srv://appClient:CWF3ElDbKjBUUnMJ@cluster0.8gwtw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
     mongodb:Client mongoDb = check new ({
