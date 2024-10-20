@@ -1,4 +1,5 @@
 # iwb381-codingers
+
 ## _Letter Tracking System_
 This project is a letter-tracking system designed to streamline letter management in offices across Sri Lanka.
  
@@ -6,17 +7,21 @@ In many office environments, many letters circulate daily, making it difficult t
 
 Users can track their letters through the system and receive notifications when they are processed and ready for collection, ensuring better efficiency and accountability.
 
+
+
 ## Project insight
-Back end  - Primarily used Ballerina
-Front end - HTML 
-API       - Ballerina was used to create custom APIs
-Database  - MongoDB
+- Back end  - Primarily used Ballerina
+- Front end - HTML 
+- API       - Ballerina was used to create custom APIs
+- Database  - MongoDB
+
 
 
 **Special thanks go to the IEEE Student Branch - UOM and WSO2 for hosting the "INNOVATE WITH BALLERINA" ballerina competition and providing knowledge throughout the project**
 
 _The project is created by Codingers_
-- _Dilini Sewwandi_
-- _Aashinshana Weerakoon_
-- _Sandaru Senitha_
 _Students of Faculty of Computing - University of Sri Jayewardenepura_
+
+- _Dilini Sewwandi - @DiliniSew_
+- _Aashinshana Weerakoon - @Aashi8810_
+- _Sandaru Senitha - @SSenitha_
