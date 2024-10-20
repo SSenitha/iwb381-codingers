@@ -16,10 +16,10 @@ Users can track their letters through the system and receive notifications when 
 - Database  - MongoDB
 
 
-
+<be><br>
 **Special thanks go to the IEEE Student Branch - UOM and WSO2 for hosting the "INNOVATE WITH BALLERINA" ballerina competition and providing knowledge throughout the project**
-
-_The project is created by Codingers_
+<br>
+_The project is created by Codingers_ <br>
 _Students of Faculty of Computing - University of Sri Jayewardenepura_
 
 - _Dilini Sewwandi - @DiliniSew_
